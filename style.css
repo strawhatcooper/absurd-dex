@@ -1,0 +1,18 @@
+* {
+    outline: solid 1px red;
+}
+
+.poke-list, .gen-list {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+#gen-link{
+    flex: 1;
+}
+
+#poke-link{
+    flex: 1;
+}
+
